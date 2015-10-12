@@ -9,6 +9,7 @@
     homebrew_packages:
       - { name: ansible }
       - { name: autoconf }
+        { name: autojump }
       - { name: automake }
       - { name: cmake }
       - { name: curl }
