@@ -57,6 +57,7 @@
       - { name: virtualbox }
       - { name: vlc }
       - { name: yorufukurou }
+      - { name: night-owl }
 
   tasks:
     - name: homebrew の tap リポジトリを追加
